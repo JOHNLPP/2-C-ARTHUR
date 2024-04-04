@@ -1,0 +1,17 @@
+.cabeçalho {
+    background-color:#711DB0;
+    color:#B15EFF ;
+    display:flex;
+    justify-content: space-around;
+    }
+    .cabeçalho-título {
+        color:#072541;
+    }
+    
+    .cabeçalho-lista{
+        color: #D80032;
+       }
+    
+    .cabeçalho-imagem{
+        width: 20%;
+    }
